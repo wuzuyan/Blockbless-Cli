@@ -54,7 +54,7 @@ bls function init -h
 ```
 
 ## Top level commands
-The Blockless CLI provides a range of commands for managing your account, local components, and projects. For detailed reference, please visit the [Blockless CLI Reference](https://blockless.network/docs/cli-reference).
+The Blockless CLI provides a range of commands for managing your account, local components, and projects. For detailed reference, please visit the [Blockless CLI Reference](https://blockless.network/docs/reference/networking).
 
 Below is a list of commonly used commands:
 
@@ -85,7 +85,7 @@ bls -v
 
 ## Blockless CLI reference
 
-For detailed reference, please visit the [Blockless CLI Reference](https://blockless.network/docs/cli-reference).
+For detailed reference, please visit the [Blockless CLI Reference](https://blockless.network/docs/reference/networking).
 
 ## Contributing
 
